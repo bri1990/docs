@@ -3,4 +3,6 @@
 (*) --> "Hey Jelle"
 "Hey Jelle" --> (*)
 
+"twee" --> "drie"
+
 @enduml
