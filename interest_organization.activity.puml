@@ -1,6 +1,6 @@
 @startuml
 
-(*) --> "First Activity"
-"First Activity" --> (*)
+(*) --> "Hey Jelle"
+"Hey Jelle" --> (*)
 
 @enduml
